@@ -20,6 +20,22 @@
     <color name="game_cell_background_4">#EDE0CE</color>
     <color name="game_cell_foreground_8">#F8F6F2</color>
     <color name="game_cell_background_8">#F4B17F</color>
+    <color name="game_cell_foreground_16">#F8F5F0</color>
+    <color name="game_cell_background_16">#F29366</color>
+    <color name="game_cell_foreground_32">#F8F5F0</color>
+    <color name="game_cell_background_32">#F17A61</color>
+    <color name="game_cell_foreground_64">#F8F5F0</color>
+    <color name="game_cell_background_64">#F05A3B</color>
+    <color name="game_cell_foreground_128">#F8F5F0</color>
+    <color name="game_cell_background_128">#E9CE78</color>
+    <color name="game_cell_foreground_256">#F8F5F0</color>
+    <color name="game_cell_background_256">#EACA68</color>
+    <color name="game_cell_foreground_512">#F8F5F0</color>
+    <color name="game_cell_background_512">#EBC758</color>
+    <color name="game_cell_foreground_1024">#F8F5F0</color>
+    <color name="game_cell_background_1024">#EAC44A</color>
+    <color name="game_cell_foreground_2048">#F2DB97</color>
+    <color name="game_cell_background_2048">#EAC03B</color>
 
     <!-- Calculator -->
     <color name="calc_layout_background">#202020</color>

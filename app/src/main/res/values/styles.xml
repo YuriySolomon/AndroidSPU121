@@ -29,6 +29,46 @@
         <item name="android:textColor">@color/game_cell_foreground_8</item>
         <item name="android:textSize">50sp</item>
     </style>
+    <style name="game_cell_16" parent="game_cell">
+        <item name="android:background">@color/game_cell_background_16</item>
+        <item name="android:textColor">@color/game_cell_foreground_16</item>
+        <item name="android:textSize">50sp</item>
+    </style>
+    <style name="game_cell_32" parent="game_cell">
+        <item name="android:background">@color/game_cell_background_32</item>
+        <item name="android:textColor">@color/game_cell_foreground_32</item>
+        <item name="android:textSize">50sp</item>
+    </style>
+    <style name="game_cell_64" parent="game_cell">
+        <item name="android:background">@color/game_cell_background_64</item>
+        <item name="android:textColor">@color/game_cell_foreground_64</item>
+        <item name="android:textSize">50sp</item>
+    </style>
+    <style name="game_cell_128" parent="game_cell">
+        <item name="android:background">@color/game_cell_background_128</item>
+        <item name="android:textColor">@color/game_cell_foreground_128</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+    <style name="game_cell_256" parent="game_cell">
+        <item name="android:background">@color/game_cell_background_256</item>
+        <item name="android:textColor">@color/game_cell_foreground_256</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+    <style name="game_cell_512" parent="game_cell">
+        <item name="android:background">@color/game_cell_background_512</item>
+        <item name="android:textColor">@color/game_cell_foreground_512</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+    <style name="game_cell_1024" parent="game_cell">
+        <item name="android:background">@color/game_cell_background_1024</item>
+        <item name="android:textColor">@color/game_cell_foreground_1024</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="game_cell_2048" parent="game_cell">
+        <item name="android:background">@color/game_cell_background_2048</item>
+        <item name="android:textColor">@color/game_cell_foreground_2048</item>
+        <item name="android:textSize">30sp</item>
+    </style>
 
     <!-- Calculator -->
     <style name="calc_btn">
