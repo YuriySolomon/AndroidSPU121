@@ -11,6 +11,7 @@
     <string name="game_tv_best">РЕКОРД\n%d"</string>
     <string name="game_btn_new">НОВА</string>
     <string name="game_btn_undo">НАЗАД</string>
+    <string name="game_move_helper">Ходу немає</string>
 
     <!-- Calculator -->
     <string name="calc_title">Calculator</string>
